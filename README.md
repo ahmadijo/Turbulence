@@ -5,6 +5,6 @@ fftn, which calculates discrete Fourier coefficients in n-dimension, is used to 
 $E(k) = \oint \frac{1}{2} E_{ii}(\vec{K}) dS(k) $, \
 the spectra can be defined as a function of scalar wave numer $k$. Scalar k equals to $(K_{i}^2)^{1/2}$, ans $S(k)$ represent the surface area of an sphere of radius $k$.
 
-Parameters:
+Parameters: \
 L = domain width \
 dim = sampling resolution
