@@ -11,3 +11,6 @@ L = domain width \
 dim = sampling resolution \
 \
 
+3D_Energy_Spectra_DNS
+In this script, the DNS results of isotropic turbulence in a triply-periodic cube [Cardesa et al., Science 2017] is used. A snapshot is loaded which provide the fft coeffecients of $u$,$v$, and $w$. The snapshots are accessible at http://hal.dmt.upm.es/raw_database/Isotropic/Re315ForcedTimeRes/snapshots/ \
+The code used to read data is provided by the DNS developers (#Alberto Vela-Martin, 2017).
